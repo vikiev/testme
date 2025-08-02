@@ -214,4 +214,5 @@ This project is built with Lovable and follows their terms of service.
 For technical support or feature requests:
 - View the [troubleshooting docs](https://docs.lovable.dev/tips-tricks/troubleshooting)
 - Visit the [Lovable Discord community](https://discord.gg/lovable)
+B
 - Check the [Supabase integration guide](https://docs.lovable.dev/integrations/supabase/)
